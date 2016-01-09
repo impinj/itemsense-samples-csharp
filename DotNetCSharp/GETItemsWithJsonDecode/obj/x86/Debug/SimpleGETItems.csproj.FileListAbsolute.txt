@@ -1,0 +1,4 @@
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SimpleGETItems\bin\Debug\SimpleGETItems.exe
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SimpleGETItems\bin\Debug\SimpleGETItems.pdb
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SimpleGETItems\obj\x86\Debug\SimpleGETItems.exe
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SimpleGETItems\obj\x86\Debug\SimpleGETItems.pdb

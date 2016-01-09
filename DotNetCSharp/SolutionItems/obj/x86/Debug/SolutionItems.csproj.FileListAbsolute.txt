@@ -1,0 +1,10 @@
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SolutionItems\bin\Debug\SolutionItems.exe
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SolutionItems\bin\Debug\SolutionItems.pdb
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SolutionItems\obj\x86\Debug\SolutionItems.exe
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SolutionItems\obj\x86\Debug\SolutionItems.pdb
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SolutionItems\bin\Debug\SolutionItems.exe.config
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\SolutionItems\bin\Debug\SolutionItems.exe.config
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\SolutionItems\bin\Debug\SolutionItems.exe
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\SolutionItems\bin\Debug\SolutionItems.pdb
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\SolutionItems\obj\x86\Debug\SolutionItems.exe
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\SolutionItems\obj\x86\Debug\SolutionItems.pdb

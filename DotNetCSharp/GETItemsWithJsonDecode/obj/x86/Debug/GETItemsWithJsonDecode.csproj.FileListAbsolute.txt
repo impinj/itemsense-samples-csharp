@@ -1,0 +1,7 @@
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithJsonDecode\bin\Debug\SimpleGETItemsWithJsonDecode.exe
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithJsonDecode\bin\Debug\SimpleGETItemsWithJsonDecode.pdb
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithJsonDecode\bin\Debug\Newtonsoft.Json.dll
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithJsonDecode\bin\Debug\Newtonsoft.Json.xml
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithJsonDecode\obj\x86\Debug\GETItemsWithJsonDecode.csprojResolveAssemblyReference.cache
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithJsonDecode\obj\x86\Debug\SimpleGETItemsWithJsonDecode.exe
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithJsonDecode\obj\x86\Debug\SimpleGETItemsWithJsonDecode.pdb

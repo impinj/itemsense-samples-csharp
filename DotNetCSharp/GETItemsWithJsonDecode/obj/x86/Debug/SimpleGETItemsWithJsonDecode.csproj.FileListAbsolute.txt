@@ -1,0 +1,6 @@
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SimpleGETItemsWithJsonDecode\bin\Debug\Newtonsoft.Json.dll
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SimpleGETItemsWithJsonDecode\bin\Debug\Newtonsoft.Json.xml
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SimpleGETItemsWithJsonDecode\bin\Debug\SimpleGETItemsWithJsonDecode.exe
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SimpleGETItemsWithJsonDecode\bin\Debug\SimpleGETItemsWithJsonDecode.pdb
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SimpleGETItemsWithJsonDecode\obj\x86\Debug\SimpleGETItemsWithJsonDecode.exe
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\SimpleGETItemsWithJsonDecode\obj\x86\Debug\SimpleGETItemsWithJsonDecode.pdb

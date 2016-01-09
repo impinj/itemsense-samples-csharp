@@ -1,0 +1,10 @@
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\UsingPageMarkerWithGETItems\bin\Debug\UsingPageMarkerWithGETItems.exe
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\UsingPageMarkerWithGETItems\bin\Debug\UsingPageMarkerWithGETItems.pdb
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\UsingPageMarkerWithGETItems\bin\Debug\Newtonsoft.Json.dll
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\UsingPageMarkerWithGETItems\bin\Debug\Newtonsoft.Json.xml
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\UsingPageMarkerWithGETItems\obj\x86\Debug\UsingPageMarkerWithGETItems.exe
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\UsingPageMarkerWithGETItems\obj\x86\Debug\UsingPageMarkerWithGETItems.pdb
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\UsingPageMarkerWithGETItems\bin\Debug\UsingPageMarkerWithGETItems.exe.config
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\GETItemsWithPageMarker\bin\Debug\UsingPageMarkerWithGETItems.exe.config
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\GETItemsWithPageMarker\obj\x86\Debug\UsingPageMarkerWithGETItems.exe
+C:\Documents\Products\ItemSense\Documentation\Training\DotNetExamples\GETItemsWithPageMarker\obj\x86\Debug\UsingPageMarkerWithGETItems.pdb

@@ -1,0 +1,8 @@
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithPageMarker\bin\Debug\UsingPageMarkerWithGETItems.exe.config
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithPageMarker\bin\Debug\UsingPageMarkerWithGETItems.exe
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithPageMarker\bin\Debug\UsingPageMarkerWithGETItems.pdb
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithPageMarker\bin\Debug\Newtonsoft.Json.dll
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithPageMarker\bin\Debug\Newtonsoft.Json.xml
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithPageMarker\obj\x86\Debug\GETItemsWithPageMarker.csprojResolveAssemblyReference.cache
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithPageMarker\obj\x86\Debug\UsingPageMarkerWithGETItems.exe
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\GETItemsWithPageMarker\obj\x86\Debug\UsingPageMarkerWithGETItems.pdb

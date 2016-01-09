@@ -1,0 +1,11 @@
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\POSTReaderDefinition\bin\Debug\AmqpExampleClient.exe.config
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\POSTReaderDefinition\bin\Debug\AmqpExampleClient.exe
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\POSTReaderDefinition\bin\Debug\AmqpExampleClient.pdb
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\POSTReaderDefinition\bin\Debug\Newtonsoft.Json.dll
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\POSTReaderDefinition\bin\Debug\RabbitMQ.Client.dll
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\POSTReaderDefinition\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\POSTReaderDefinition\bin\Debug\Newtonsoft.Json.xml
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\POSTReaderDefinition\bin\Debug\RabbitMQ.Client.xml
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\POSTReaderDefinition\obj\x86\Debug\POSTReaderDefinition.csprojResolveAssemblyReference.cache
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\POSTReaderDefinition\obj\x86\Debug\AmqpExampleClient.exe
+C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\POSTReaderDefinition\obj\x86\Debug\AmqpExampleClient.pdb

@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGETItems", "SimpleGETItems\SimpleGETItems.csproj", "{C8417778-6C43-48AC-A901-43D47F853334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionItems", "SolutionItems\SolutionItems.csproj", "{B812DF86-1BD3-4227-A1E0-4462EB007490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GETItemsWithJsonDecode", "GETItemsWithJsonDecode\GETItemsWithJsonDecode.csproj", "{2B41F609-E5DD-46A1-819D-9EDB9B958E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmqpExampleClient", "AmqpExampleClient\AmqpExampleClient.csproj", "{FC5B448B-D427-4CCA-9E61-142A04953391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GETItemsWithFilter", "GETItemsWithFilter\GETItemsWithFilter.csproj", "{E9BA1C17-CE3B-46AC-805B-1E69AEEB0AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GETItemsWithPageMarker", "GETItemsWithPageMarker\GETItemsWithPageMarker.csproj", "{A1A6603B-C4A8-469A-82D7-30C08FA3EA16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSTReaderDefinition", "POSTReaderDefinition\POSTReaderDefinition.csproj", "{DF34596D-6B3A-4585-ACC2-42E051FD93FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCoordinatorExample", "SimpleCoordinatorExample\SimpleCoordinatorExample.csproj", "{72FC090D-854E-4E1C-9E38-74E72E71204B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8417778-6C43-48AC-A901-43D47F853334}.Debug|x86.ActiveCfg = Debug|x86
+		{C8417778-6C43-48AC-A901-43D47F853334}.Debug|x86.Build.0 = Debug|x86
+		{C8417778-6C43-48AC-A901-43D47F853334}.Release|x86.ActiveCfg = Release|x86
+		{C8417778-6C43-48AC-A901-43D47F853334}.Release|x86.Build.0 = Release|x86
+		{B812DF86-1BD3-4227-A1E0-4462EB007490}.Debug|x86.ActiveCfg = Debug|x86
+		{B812DF86-1BD3-4227-A1E0-4462EB007490}.Debug|x86.Build.0 = Debug|x86
+		{B812DF86-1BD3-4227-A1E0-4462EB007490}.Release|x86.ActiveCfg = Release|x86
+		{B812DF86-1BD3-4227-A1E0-4462EB007490}.Release|x86.Build.0 = Release|x86
+		{2B41F609-E5DD-46A1-819D-9EDB9B958E7D}.Debug|x86.ActiveCfg = Debug|x86
+		{2B41F609-E5DD-46A1-819D-9EDB9B958E7D}.Debug|x86.Build.0 = Debug|x86
+		{2B41F609-E5DD-46A1-819D-9EDB9B958E7D}.Release|x86.ActiveCfg = Release|x86
+		{2B41F609-E5DD-46A1-819D-9EDB9B958E7D}.Release|x86.Build.0 = Release|x86
+		{FC5B448B-D427-4CCA-9E61-142A04953391}.Debug|x86.ActiveCfg = Debug|x86
+		{FC5B448B-D427-4CCA-9E61-142A04953391}.Debug|x86.Build.0 = Debug|x86
+		{FC5B448B-D427-4CCA-9E61-142A04953391}.Release|x86.ActiveCfg = Release|x86
+		{FC5B448B-D427-4CCA-9E61-142A04953391}.Release|x86.Build.0 = Release|x86
+		{E9BA1C17-CE3B-46AC-805B-1E69AEEB0AF6}.Debug|x86.ActiveCfg = Debug|x86
+		{E9BA1C17-CE3B-46AC-805B-1E69AEEB0AF6}.Debug|x86.Build.0 = Debug|x86
+		{E9BA1C17-CE3B-46AC-805B-1E69AEEB0AF6}.Release|x86.ActiveCfg = Release|x86
+		{E9BA1C17-CE3B-46AC-805B-1E69AEEB0AF6}.Release|x86.Build.0 = Release|x86
+		{A1A6603B-C4A8-469A-82D7-30C08FA3EA16}.Debug|x86.ActiveCfg = Debug|x86
+		{A1A6603B-C4A8-469A-82D7-30C08FA3EA16}.Debug|x86.Build.0 = Debug|x86
+		{A1A6603B-C4A8-469A-82D7-30C08FA3EA16}.Release|x86.ActiveCfg = Release|x86
+		{A1A6603B-C4A8-469A-82D7-30C08FA3EA16}.Release|x86.Build.0 = Release|x86
+		{DF34596D-6B3A-4585-ACC2-42E051FD93FC}.Debug|x86.ActiveCfg = Debug|x86
+		{DF34596D-6B3A-4585-ACC2-42E051FD93FC}.Debug|x86.Build.0 = Debug|x86
+		{DF34596D-6B3A-4585-ACC2-42E051FD93FC}.Release|x86.ActiveCfg = Release|x86
+		{DF34596D-6B3A-4585-ACC2-42E051FD93FC}.Release|x86.Build.0 = Release|x86
+		{72FC090D-854E-4E1C-9E38-74E72E71204B}.Debug|x86.ActiveCfg = Debug|x86
+		{72FC090D-854E-4E1C-9E38-74E72E71204B}.Debug|x86.Build.0 = Debug|x86
+		{72FC090D-854E-4E1C-9E38-74E72E71204B}.Release|x86.ActiveCfg = Release|x86
+		{72FC090D-854E-4E1C-9E38-74E72E71204B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
