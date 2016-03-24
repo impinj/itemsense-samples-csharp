@@ -6,3 +6,5 @@ C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\SimpleGETItems\bin\Debug\Simpl
 C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\SimpleGETItems\bin\Debug\SimpleGETItems.pdb
 C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\SimpleGETItems\obj\x86\Debug\SimpleGETItems.exe
 C:\Code\ItemSense\GitHub\ItemSenseExamples\DotNet\SimpleGETItems\obj\x86\Debug\SimpleGETItems.pdb
+C:\Code\Impinj GitHub\ItemSense_API_Client_Examples\DotNetCSharp\SimpleGETItems\obj\x86\Debug\SimpleGETItems.exe
+C:\Code\Impinj GitHub\ItemSense_API_Client_Examples\DotNetCSharp\SimpleGETItems\obj\x86\Debug\SimpleGETItems.pdb
