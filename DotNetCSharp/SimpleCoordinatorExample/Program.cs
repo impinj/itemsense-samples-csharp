@@ -40,7 +40,8 @@ namespace DotNetExamples
                     DurationSeconds = jobDurationInSeconds,
                     StartDelay = 0,
                     ReportToDatabaseEnabled = true,
-                    ReportToMessageQueueEnabled = true
+                    ReportToMessageQueueEnabled = true,
+                    Facility = ""
                 };
 
                 // Create a string-based JSON object of the object
@@ -188,10 +189,14 @@ namespace DotNetExamples
                 {
                     Console.WriteLine(kvp.Value.itemToCsvString());
                 }
-
-                // Hang on here until user presses Enter
-                Console.WriteLine(" Press <Enter> to exit.");
-                Console.ReadLine();
+            }
+            catch (WebException wex)
+            {
+                if (wex.Status == WebExceptionStatus.ProtocolError)
+                {
+                    StreamReader reader = new StreamReader(wex.Response.GetResponseStream());
+                    Console.WriteLine("Detail: {0}", reader.ReadToEnd());
+                }
             }
             catch (Exception ex)
             {
@@ -201,6 +206,10 @@ namespace DotNetExamples
                     (null == ex.InnerException) ? string.Empty : Environment.NewLine + ex.InnerException.Message
                     );
             }
+
+            // Hang on here until user presses Enter
+            Console.WriteLine(" Press <Enter> to exit.");
+            Console.ReadLine();
         }
 
         static private List<ItemSense.Item> GetItems()
