@@ -17,13 +17,13 @@ namespace ItemSense
         public string TagId { get; set; }
 
         [JsonProperty("xLocation")]
-        public double XLocation { get; set; }
+        public double? XLocation { get; set; }
 
         [JsonProperty("yLocation")]
-        public double YLocation { get; set; }
+        public double? YLocation { get; set; }
 
         [JsonProperty("zLocation")]
-        public double ZLocation { get; set; }
+        public double? ZLocation { get; set; }
 
         [JsonProperty("zone")]
         public string Zone { get; set; }
